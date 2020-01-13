@@ -11,7 +11,7 @@ import osrs.tasks.*;
 import java.util.ArrayList;
 import java.util.List;
 
-@Script.Manifest(name = "Tutrial", description = "OSRS Tutorial", properties = "client=4; author=Josue; topic=999;")
+@Script.Manifest(name = "Tutrial", description = "OSRS Tutorial", properties = "client=4; author=DevPro; topic=1353923-tutorial-island-script;")
 public class TutorialOSrs extends PollingScript<ClientContext> {
     SettingWindow sw;
     int count = 0;
